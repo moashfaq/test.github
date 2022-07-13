@@ -1,0 +1,37 @@
+body{
+	background: #ccc;
+}
+
+#headera:hover
+{
+	color: #fff;
+}
+
+#bg-img{
+	background:url('../img/back.jpeg') ;
+	background-size:150% ;
+	background-repeat: no-repeat; 
+	min-height: 600px;
+
+}
+
+#About
+{
+	margin-top:-400px ;
+}
+
+#About .fade
+{
+	color:#fff ;
+}
+
+#About span
+{
+	padding: 10px 20px 10px 20px;
+
+}
+
+#About hr{
+	border-width:3px; ;
+
+}
